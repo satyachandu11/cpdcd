@@ -1,0 +1,7 @@
+
+# run process
+
+open "anaconda prompt"
+type& enter "activate tsf"
+type& enter "cd C:\Users\LENOVO\Desktop\WorkSpace\MPIP15_2022_CODE"
+type&enter "python app.py"
